@@ -24,17 +24,6 @@ I'm a Computer Science and Engineering undergraduate focused on **Software Devel
 
 I enjoy building web applications, developing backend APIs, working with databases, and solving Data Structures and Algorithms problems.
 
-Currently, I'm focused on improving my skills in:
-
-* Full-Stack Web Development
-* Backend Development
-* REST API Design
-* Authentication & Authorization
-* Database Design
-* System Design Fundamentals
-* Data Structures & Algorithms
-* Software Engineering Practices
-
 ---
 
 ## 🛠️ Tech Stack
