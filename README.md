@@ -244,14 +244,6 @@ System Design
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayendra-singh-k98&theme=transparent&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>Building projects. Solving problems. Learning every day.</i>
 </p>
