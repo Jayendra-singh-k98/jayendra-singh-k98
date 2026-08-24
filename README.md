@@ -218,32 +218,6 @@ System Design
 
 ---
 
-## 🎯 My Development Focus
-
-```text
-        ┌───────────────────────┐
-        │   Software Development│
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │ Full-Stack Development │
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │   Backend Engineering  │
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │ DSA & Problem Solving  │
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │ Software Engineering   │
-        └───────────────────────┘
-```
-
----
-
 <p align="center">
   <i>Building projects. Solving problems. Learning every day.</i>
 </p>
