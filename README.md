@@ -162,30 +162,6 @@ I'm building a strong foundation in:
 
 ---
 
-## 📚 Currently Learning
-
-I'm currently focusing on becoming a stronger Software / Full-Stack Developer by improving my knowledge of:
-
-```text
-Full-Stack Development
-        ↓
-Backend Architecture
-        ↓
-REST API Design
-        ↓
-Authentication & Authorization
-        ↓
-Database Design
-        ↓
-Testing
-        ↓
-CI/CD
-        ↓
-System Design
-```
-
----
-
 ## 🏆 Achievements
 
 * 🧩 Solved **500+ DSA problems on LeetCode**
